@@ -22,7 +22,7 @@ $ sudo crontab -e
    15 0 * * * root /usr/local/bin/firewalld-cloudflare.sh
 ```
 
-##### Instructions for FirewallD:
+##### Instructions for UFW:
 
 1) Place this script in the /usr/local/bin/ directory, give it proper permissions.
 ```
